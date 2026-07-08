@@ -1,0 +1,8 @@
+{
+  "name": "Meter Reader Dashboard",
+  "description": "An AI-powered utility meter reading analyzer and historical tracking dashboard using Gemini Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
